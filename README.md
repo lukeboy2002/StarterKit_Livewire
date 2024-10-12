@@ -12,9 +12,8 @@ This is my Laravel-LivewireKit with Jetstream
 
 ## PhpStorm
 
-Add filewatcher
-Add autostart run dev
-Change your .env file
+- Add filewatcher
+- Add autostart run dev
 
 ## authorization
 
